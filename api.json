@@ -1,0 +1,102 @@
+[
+    {
+        "name":"shahrukh khan",
+        "img":"https://filmfare.wwmindia.com/thumb/content/2020/nov/shahrukhkhanfilms61604325644.jpg?width=1200&height=900",
+        "tag":"The lover boy"
+    },
+    {
+        "name":"amitabh bacchan",
+        "img":"https://s01.sgp1.digitaloceanspaces.com/large/881125-bgswgpaves-1527868031.jpeg",
+        "tag":"Arre aap toh rishtey mei sabke Baap nikle"
+    },
+    {
+        "name":"rajkumar rao",
+        "img":"https://static.toiimg.com/thumb/msid-71066614,width-1200,height-900,resizemode-4/.jpg",
+        "tag":"the fine actor !"
+    },
+    {
+        "name":"akshay kumar",
+        "img":"https://i.pinimg.com/originals/fb/4e/b0/fb4eb065afc1b170fd454acd74ad1492.jpg",
+        "tag":"Khiladi bhaiya"
+    },
+    {
+        "name":"amir khan",
+        "img":"https://filmfare.wwmindia.com/content/2020/aug/aamirkhanfirstsalary41598273973.jpg",
+        "tag":"Mr. Perfectionist"
+    },
+    {
+        "name":"salman khan",
+        "img":"https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/9/2021_9$largeimg_1725534029.JPG",
+        "tag":"Arre bhai bhai bhai"
+    },
+    {
+        "name":"sushant singh rajput",
+        "img":"https://images.hindustantimes.com/img/2021/08/21/550x309/sushant_singh_rajput_1629523941127_1629523946662.png",
+        "tag":"genius wizard"
+    },
+    {
+        "name":"vicky kaushal",
+        "img":"https://img.theweek.in/content/dam/week/magazine/theweek/leisure/images/2021/10/13/66-Vicky-Kaushal.jpg",
+        "tag":"The chocolatey boy"
+    },
+    {
+        "name":"hritik roshan",
+        "img":"https://resize.indiatvnews.com/en/resize/oldbucket/715_-/entertainmentbollywood/IndiaTv3765d4_Untitled-1.jpg",
+        "tag":"The Greek god"
+    },
+    {
+        "name":"ajay devgan",
+        "img":"https://static-koimoi.akamaized.net/wp-content/new-galleries/2022/01/ajay-devgn-pens-a-note-for-his-20-year-old-self-writes-always-be-true-always-be-you-001.jpg",
+        "tag":"The serious man"
+    },
+    {
+        "name":"manoj bajpayee",
+        "img":"https://images.hindustantimes.com/img/2021/06/13/1600x900/mANOJ_bAJPAYEE_THANKS_RGV_1623562850892_1623562882464.jpg",
+        "tag":"The fantastic actor"
+    },
+    {
+        "name":"pankaj tripathi",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/5/50/Pankaj_Tripathi_World_Premiere_Newton_Zoopalast_Berlinale_2017_06.jpg",
+        "tag":"Made for acting"
+    },
+    {
+        "name":"ranbir kapoor",
+        "img":"https://filmfare.wwmindia.com/content/2021/jul/ranbirkapoor31626519453.jpg",
+        "tag":"The youthful guy"
+    },
+    {
+        "name":"sidharth malhotra",
+        "img":"https://static.toiimg.com/thumb/msid-85250431,width-1200,height-900,resizemode-4/.jpg",
+        "tag":"aka Shershaah of bollywood"
+    },
+    {
+        "name":"ayushman khurrana",
+        "img":"https://ngs-space1.sgp1.digitaloceanspaces.com/am/uploads/mediaGallery/image/1626790287741.jpg-org",
+        "tag":"The fine actor"
+    },
+    {
+        "name":"shahid kapoor",
+        "img":"https://static.toiimg.com/photo/msid-70140480/70140480.jpg?46068",
+        "tag":"The aashiq"
+    },
+    {
+        "name":"ranveer singh",
+        "img":"https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=425,format=auto/sites/default/files/styles/768x768/public/d8/images/methode/2019/12/20/dc70c89e-20b7-11ea-acfb-1fd6c5cf20a4_image_hires_145646.jpg?itok=2E1cef-j&v=1576825010",
+        "tag":"The power house"
+    },
+    {
+        "name":"varun dhavan",
+        "img":"https://www.pinkvilla.com/files/styles/amp_metadata_content_image/public/varun-dhawan-swot.jpg",
+        "tag":"Student of the year"
+    },
+    {
+        "name":"sonu sood",
+        "img":"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202202/sonusood_1200x768.jpeg?DmDo6WtSzILYCZwblkz.oJDTYlRhvSlT&size=770:433",
+        "tag":"Mr. Philanthropist"
+    },
+    {
+        "name":"john abraham",
+        "img":"https://www.pinkvilla.com/files/styles/amp_metadata_content_image_min_696px_wide/public/john_abraham_birthday_special_did_you_know_these_interesting_facts_about_the_star_.jpg",
+        "tag":"Desi boyy"
+    }
+]
